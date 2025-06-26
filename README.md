@@ -1,4 +1,4 @@
-# Filippo-Sallustio-s-Thesis-Repository
+# Filippo-Sallustio-Thesis-Repository
 # FTSE MIB Forecasting
 
 This repository demonstrates how to forecast the FTSE MIB index using
